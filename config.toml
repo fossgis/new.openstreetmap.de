@@ -122,8 +122,8 @@ url = "community/"
 weight = 4
   
 [[menu.main]]
-name = "Blog/News"
-url = "https://blog.openstreetmap.de/"
+name = "News"
+url = "https://weeklyosm.eu/de/"
 weight = 5
 
 [[menu.main]]
