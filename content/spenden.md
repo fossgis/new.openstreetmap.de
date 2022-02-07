@@ -1,9 +1,10 @@
 ---
 title: "Spenden"
+menu_title: "Spenden"
 draft: false
 ---
 
-#### Spenden für OpenStreetMap.de
+## Spenden für OpenStreetMap.de
 
 OpenStreetMap ist ein freies Projekt. Niemand muss für die Nutzung der Daten zahlen. Der Betrieb der Infrastruktur verursacht aber Kosten, die wir ausschließlich durch Spenden decken.
 
@@ -15,7 +16,7 @@ Du kannst OSM.de auch durch den Kauf von Fan-Artikeln beim FLOSS Shop unterstüt
 
 Eine direkte Spende könnt ihr uns wie folgt zukommen lassen:
 
-#### Überweisung
+## Überweisung
 
 Eine Banküberweisung an das folgende Konto
 
@@ -27,6 +28,6 @@ BIC: MVBM DE 55
 
 Ihr könnt dem Verein auch den Verwendungszweck vorgeben (z.B. „OpenStreetMap“), damit das Geld nur für OSM genutzt wird, da der FOSSGIS auch viele andere Projekte betreut, die sich ebenfalls mit freien Geodaten beschäftigen. Jedoch wird so die Flexibilität deutlich eingeschränkt und Geld liegt unter Umständen "brach".
 
-#### PayPal
+## PayPal
 
 Mittels elektronischem Transfer über PayPal:

@@ -1,7 +1,7 @@
 baseURL = "http://openstreetmap.de/"
 languageCode = "de-de"
 title = "OpenStreetMap Deutschland"
-theme = "bookworm-light"
+theme = "openstreetmap"
 # post pagination
 paginate = "5"
 # post excerpt
@@ -30,26 +30,19 @@ unsafe= true
 
 ############################## Plugins ##############################
 # CSS Plugins
+#[[params.plugins.css]]
+#link = "plugins/bootstrap/bootstrap.min.css"
+#link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "plugins/fork-awesome/css/fork-awesome.min.css"
 [[params.plugins.css]]
-link = "plugins/line-awesome/css/line-awesome.min.css"
-[[params.plugins.css]]
-link = "https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap"
+link = "https://unpkg.com/swiper@7/swiper-bundle.min.css"
+
 
 # JS Plugins
 [[params.plugins.js]]
-link = "plugins/jquery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-#[[params.plugins.js]]
-#link = "plugins/instagram-feed/instagram-feed.js"
-#[[params.plugins.js]]
-#link = "plugins/search/fuse.min.js"
-#[[params.plugins.js]]
-#link = "plugins/search/mark.js"
-#[[params.plugins.js]]
-#link = "plugins/search/search.js"
+link = "plugins/swiperjs/swiper-bundle.min.js"
+
 
 # site variables
 [params.variables]
@@ -67,15 +60,16 @@ h6 = "16px"
 white = "#ffffff"
 black = "#000000"
 dark = "#152035"
-gray = "#747577"
+gray = "#f8f8f8"
 light = "#FAFAFA"
-color_primary = "#01AD9F"
+border_color = "#ccc"
+color_primary = "#9ed284"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "img/osm_logo.png"
 logo_width = "120px"
-favicon = "images/favicon.png"
+favicon = "img/favicon.ico"
 # Meta data
 description = "OpenStreetMap Deutschland"
 author = "FOSSGIS e.V."
@@ -84,7 +78,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # search
 search = false
 # main section
-mainSections = ["posts"]
+# mainSections = ["posts"]
 # copyright
 copyright = "FOSSGIS e.V"
 
@@ -103,32 +97,38 @@ expire_days = 2
 [[menu.main]]
 name = "Startseite"
 url = "/"
+pre = '<i class="fa fa-home" aria-hidden="true"></i>'
 weight = 1
   
 [[menu.main]]
 name = "FAQ"
 url = "faq/"
+pre = '<i class="fa fa-question-circle" aria-hidden="true"></i>'
 weight = 2
 
 [[menu.main]]
 name = "Karte"
 url = "https://openstreetmap.de/karte.html"
+pre = '<i class="fa fa-map-marker" aria-hidden="true"></i>'
 weight = 3
 
 
 [[menu.main]]
 name = "Community"
 url = "community/"
+pre = '<i class="fa fa-users" aria-hidden="true"></i>'
 weight = 4
   
 [[menu.main]]
 name = "News"
 url = "https://weeklyosm.eu/de/"
+pre = '<i class="fa fa-newspaper-o" aria-hidden="true"></i>'
 weight = 5
 
 [[menu.main]]
 name = "Spenden"
 url = "spenden/"
+pre = '<i class="fa fa-money" aria-hidden="true"></i>'
 weight = 6
   
 
@@ -142,20 +142,3 @@ weight = 1
 name = "Datenschutz"
 url = "https://www.fossgis.de/datenschutzerklärung/"
 weight = 2
-
-# Social Icons
-# [[params.social]]
-# icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-# url = "https://www.facebook.com/"
-
-# [[params.social]]
-# icon = "lab la-twitter" # https://icons8.com/line-awesome
-# url = "https://www.twitter.com/"
-
-# [[params.social]]
-# icon = "lab la-instagram" # https://icons8.com/line-awesome
-# url = "https://www.instagram.com/"
-
-# [[params.social]]
-# icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-# url = "https://www.linkedin.com/"
