@@ -108,7 +108,7 @@ weight = 2
 
 [[menu.main]]
 name = "Karte"
-url = "https://openstreetmap.de/karte.html"
+url = "karte/"
 pre = '<i class="fa fa-map-marker" aria-hidden="true"></i>'
 weight = 3
 

@@ -33,6 +33,9 @@ function openTab(evt, tabName) {
     evt.currentTarget.className += " active";
 }
 
+// Homepage elements
+if (document.getElementById("defaultOpen")) {
+
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 
@@ -89,3 +92,5 @@ var swiper = new Swiper(".mySwiper", {
         }
     },
 });
+
+}

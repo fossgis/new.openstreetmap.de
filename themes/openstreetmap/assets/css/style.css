@@ -104,6 +104,10 @@ body {
     width: 70px;
 }
 
+#osm_logo_karte {
+    width: 50px;
+}
+
 .osm_heading {
     font-size: 36px;
     text-align: left;
