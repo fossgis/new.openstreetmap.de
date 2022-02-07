@@ -8,7 +8,7 @@ draft: false
 
 ##  Was ist OpenStreetMap?
 
-OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. Wir sammeln weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und alles andere, was gemeinhin auf Karten zu sehen ist. Weil wir die Daten selbst erheben und nicht aus existierenden Karten abmalen, haben wir selbst auch alle Rechte daran. Die OpenStreetMap-Daten darf jeder lizenzkostenfrei einsetzen und beliebig weiterverarbeiten.
+[OpenStreetMap](https://www.openstreetmap.org/) ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. Wir sammeln weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und alles andere, was gemeinhin auf Karten zu sehen ist. Weil wir die Daten selbst erheben und nicht aus existierenden Karten abmalen, haben wir selbst auch alle Rechte daran. Die OpenStreetMap-Daten darf jeder lizenzkostenfrei einsetzen und beliebig weiterverarbeiten.
 
 ## Warum macht ihr das?
 
@@ -30,7 +30,7 @@ Außerdem stellt Google zwar Karten zur Verfügung, aber nicht die zugrundeliege
 
 Am besten Du meldest Dich bei OpenStreetMap an und kannst dann direkt die Daten bearbeiten. Ein Einstieg findet sich hier.
 
-Wenn Dir das zu umständlich ist, dann kannst Du kleinere Fehler auch direkt auf https://www.openstreetmap.org melden. Klicke einfach auf oder auf das gleiche Symbol in der Kartenanzeige. Dies fügt eine Markierung der Karte hinzu, die du durch Ziehen verschieben kannst. Schreibe deine Nachricht, klicke auf „Speichern“ und andere Mapper werden den Fehler untersuchen.
+Wenn Dir das zu umständlich ist, dann kannst Du kleinere Fehler auch direkt auf https://www.openstreetmap.org melden. Klicke einfach auf oder auf das gleiche Symbol ![map note](/img/map-note.png "map note") in der Kartenanzeige. Dies fügt eine Markierung der Karte hinzu, die du durch Ziehen verschieben kannst. Schreibe deine Nachricht, klicke auf „Speichern“ und andere Mapper werden den Fehler untersuchen.
 
 ## Wie kann ich mitmachen?
 
@@ -40,7 +40,7 @@ Auch Programmierer sind bei OpenStreetMap immer gefragt, es gibt jede Menge zu t
 
 Hast Du vielleicht Zugriff auf Daten, die OpenStreetMap verwenden könnte? Luftbilder, alte Stadtpläne, deren Copyright abgelaufen ist, oder die GPS-Tracks Deiner Flotte von Kurierfahrzeugen? Immer her damit, das können wir sicher auch irgendwo gebrauchen.
 
-Siehe auch die Mitmachseite im Wiki, oder die „Schritt für Schritt“ Anleitung.
+Siehe auch die [Mitmachseite](https://wiki.openstreetmap.org/wiki/DE:Getting_Involved) im Wiki, oder die [„Schritt für Schritt“](/123) Anleitung.
 
 ## Wie kann ich meinen Account wieder löschen?
 
@@ -62,9 +62,9 @@ Wie für alles im OSM-Projekt gibt es keine zentrale Organisation dieser Mapping
 
 OpenStreetMap selbst bietet die gesammelten Daten entweder in Rohform oder in Form vorberechneter Kartenbilder an.
 
-Zum Anschauen oder um schnell und unkompliziert eine Karte auf die eigene Webseite zu bringen, eignen sich die vorberechneten Kartenbilder am besten (auch die Karte auf OpenStreetMap.de arbeitet damit).
+Zum Anschauen oder um schnell und unkompliziert eine Karte auf die eigene Webseite zu bringen, eignen sich die vorberechneten Kartenbilder am besten (auch die [Karte](/karte/) auf [OpenStreetMap.de](/karte/) arbeitet damit).
 
-Wer eigene Berechnungen mit den Daten anstellen möchte oder Karten in einem selbst definierten Stil produzieren will, der benutzt statt fertiger Kartenbilder die Rohdaten. Die Rohdaten können als regelmäßig aktualisierte Datei heruntergeladen werden (das sog. „planet file“ mit den Daten der ganzen Welt). Weiterhin bieten verschiedene Firmen und Organisationen kostenlose Auszüge daraus: Geofabrik, BBBike und weitere.
+Wer eigene Berechnungen mit den Daten anstellen möchte oder Karten in einem selbst definierten Stil produzieren will, der benutzt statt fertiger Kartenbilder die Rohdaten. Die Rohdaten können als regelmäßig aktualisierte Datei heruntergeladen werden (das sog. [„planet file“](https://planet.openstreetmap.org/) mit den Daten der ganzen Welt). Weiterhin bieten verschiedene Firmen und Organisationen kostenlose Auszüge daraus: [Geofabrik](https://download.geofabrik.de/osm/), [BBBike](https://extract.bbbike.org/) und [weitere](https://wiki.openstreetmap.org/wiki/Planet.osm).
 
 ## Wie ist das mit der Lizenz?
 
@@ -87,28 +87,29 @@ Da müssen wir gegenfragen: Was ist „vollständig“? Alle Autobahnen und Bund
 
 Es gibt (Stand Oktober 2015) etwa 2,3 Millionen OpenStreetMap-Accounts. Die Zahl der Accounts wächst rasant.
 
-Siehe auch die Statistik im Wiki.
+Siehe auch die [Statistik](https://wiki.openstreetmap.org/wiki/Stats) im Wiki.
 
 ## Wie finanziert sich das?
 
-Alle Arbeit im Projekt wird von Freiwilligen getan, die dafür kein Geld bekommen. Die Server, auf denen die Datenbank und andere zentrale Dienste laufen, sind zum Teil gesponsert, zum Teil von einzelnen Projektmitgliedern aus eigener Tasche bezahlt. Den Betrieb der zentralen Server (Strom, Datenverkehr, usw.) bezahlt eine englische Universität. In Großbritannien gibt es einen OpenStreetMap-Verein, die Open Street Map Foundation, der ein geringes Maß an Spendengeldern einnimmt. In Deutschland gibt es den FOSSGIS e.V., über den Spenden abgewickelt werden können. Zur Spenden-Seite…
+Alle Arbeit im Projekt wird von Freiwilligen getan, die dafür kein Geld bekommen. Die Server, auf denen die Datenbank und andere zentrale Dienste laufen, sind zum Teil gesponsert, zum Teil von einzelnen Projektmitgliedern aus eigener Tasche bezahlt. Den Betrieb der zentralen Server (Strom, Datenverkehr, usw.) bezahlt eine englische Universität. In Großbritannien gibt es einen OpenStreetMap-Verein, die [Open Street Map Foundation](https://wiki.openstreetmap.org/wiki/Foundation), der ein geringes Maß an Spendengeldern einnimmt. In Deutschland gibt es den [FOSSGIS e.V.](https://www.fossgis.de/), über den Spenden abgewickelt werden können. [Zur Spenden-Seite…](/spenden/)
 
 ## Gibt es auch Fan-Artikel?
 
 Die Firma kernel concepts läßt seit Jahren für Linux und andere Open-Source-Projekte, Plüsch-Pinguine, Pins, T-Shirts und dergleichen herstellen und verkauft sie über ihren Online-Shop. Viele werden sie auch vom LinuxTag oder anderen Messen kennen. Ab sofort gibt es dort auch OpenStreetMap-Fan-Artikel.
 
-Hier geht es zu den Fan-Artikeln.
+Hier geht es zu den [Fan-Artikeln](/fan-artikel/).
 
 ## Server
 
-Der FOSSGIS e.V. betreibt mehrere Server für die OpenStreetMap-Community. Weitere Informationen, zum Beispiel darüber wie ihr die Dienste auf diesen Servern nutzen und selbst mitmachen könnt, findet ihr im Wiki.
-Wo finde ich weitere Informationen?
+Der FOSSGIS e.V. betreibt mehrere Server für die OpenStreetMap-Community. Weitere Informationen, zum Beispiel darüber wie ihr die Dienste auf diesen Servern nutzen und selbst mitmachen könnt, findet ihr im [Wiki](https://wiki.openstreetmap.org/wiki/FOSSGIS/Server).
+
+## Wo finde ich weitere Informationen?
 
 Zum Beispiel auf den folgenden Wiki-Seiten:
 
-    Hauptseite
-    FAQ im Wiki
-    WikiProject Germany
-    Hilfeseite
-    Mitmachseite im Wiki
+* [Hauptseite](https://wiki.openstreetmap.org/wiki/Hauptseite)
+* [FAQ im Wiki](https://wiki.openstreetmap.org/wiki/DE:FAQ)
+* [WikiProject Germany](https://wiki.openstreetmap.org/wiki/WikiProject_Germany)
+* [Hilfeseite](https://wiki.openstreetmap.org/wiki/Hilfe)
+* [Mitmachseite im Wiki](https://wiki.openstreetmap.org/wiki/DE:Getting_Involved)
 

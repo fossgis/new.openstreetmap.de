@@ -12,8 +12,8 @@ OpenStreetMap (OSM) wird ganz wesentlich durch seine Community geprägt. Ohne di
 
 Das OpenStreetMap-Wiki enthält eine Fülle von Informationen, allerdings sind sie nicht immer leicht zu finden, und vieles ist auch nur auf Englisch.
 
-    Deutsche Hauptseite
-    Englische Hauptseite
+* [Deutsche Hauptseite](https://wiki.openstreetmap.org/wiki/Hauptseite)
+* [Englische Hauptseite](https://wiki.openstreetmap.org/)
 
 Das Wiki kann von jedem geändert werden, Du musst Dir dazu allerdings einen Wiki-Login zulegen. Wenn Du Lust hast, etwas beizutragen, aber nicht weißt, wo Du anfangen sollst: Wir brauchen immer Leute, die englischsprachige Wiki-Seiten ins Deutsche übersetzen.
 
