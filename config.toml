@@ -1,4 +1,5 @@
-baseURL = "http://openstreetmap.de/"
+baseURL = "https://fossgis.github.io/new.openstreetmap.de/"
+#baseURL = https://openstreetmap.de/"
 languageCode = "de-de"
 title = "OpenStreetMap Deutschland"
 theme = "openstreetmap"
