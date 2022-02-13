@@ -1,4 +1,5 @@
 # openstreetmap.de Webseite
+Hier kann man sich eine [Demo](https://fossgis.github.io/new.openstreetmap.de/) des neuen Designs anschauen.
 
 Die openstreetmap.de-Website wird aus den Inhalten, die in den untergeordneten Verzeichnissen existieren, erzeugt.
 
