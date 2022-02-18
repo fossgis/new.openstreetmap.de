@@ -73,9 +73,9 @@ Die OpenStreetMap-Datenbank wird seit dem 12. September 2012 unter der Lizenz �
 Daten von OpenStreetMap - Veröffentlicht unter ODbL
 
 Code:
-```
-Daten von <a href="https://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>
-```
+
+```Daten von <a href="https://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>```
+
 
 Eine inoffizielle Übersetzung der ODbl 1.0 befindet sich hier, weitere Informationen zum Quellenhinweis gibt es hier.
 
