@@ -40,7 +40,7 @@ Auch Programmierer sind bei OpenStreetMap immer gefragt, es gibt jede Menge zu t
 
 Hast Du vielleicht Zugriff auf Daten, die OpenStreetMap verwenden könnte? Luftbilder, alte Stadtpläne, deren Copyright abgelaufen ist, oder die GPS-Tracks Deiner Flotte von Kurierfahrzeugen? Immer her damit, das können wir sicher auch irgendwo gebrauchen.
 
-Siehe auch die [Mitmachseite](https://wiki.openstreetmap.org/wiki/DE:Getting_Involved) im Wiki, oder die [„Schritt für Schritt“](/123) Anleitung.
+Siehe auch die [Mitmachseite](https://wiki.openstreetmap.org/wiki/DE:Getting_Involved) im Wiki, oder die [„Schritt für Schritt“]( {{< relref "/123" >}}) Anleitung.
 
 ## Wie kann ich meinen Account wieder löschen?
 
@@ -91,7 +91,7 @@ Siehe auch die [Statistik](https://wiki.openstreetmap.org/wiki/Stats) im Wiki.
 
 ## Wie finanziert sich das?
 
-Alle Arbeit im Projekt wird von Freiwilligen getan, die dafür kein Geld bekommen. Die Server, auf denen die Datenbank und andere zentrale Dienste laufen, sind zum Teil gesponsert, zum Teil von einzelnen Projektmitgliedern aus eigener Tasche bezahlt. Den Betrieb der zentralen Server (Strom, Datenverkehr, usw.) bezahlt eine englische Universität. In Großbritannien gibt es einen OpenStreetMap-Verein, die [Open Street Map Foundation](https://wiki.openstreetmap.org/wiki/Foundation), der ein geringes Maß an Spendengeldern einnimmt. In Deutschland gibt es den [FOSSGIS e.V.](https://www.fossgis.de/), über den Spenden abgewickelt werden können. [Zur Spenden-Seite…](/spenden/)
+Alle Arbeit im Projekt wird von Freiwilligen getan, die dafür kein Geld bekommen. Die Server, auf denen die Datenbank und andere zentrale Dienste laufen, sind zum Teil gesponsert, zum Teil von einzelnen Projektmitgliedern aus eigener Tasche bezahlt. Den Betrieb der zentralen Server (Strom, Datenverkehr, usw.) bezahlt eine englische Universität. In Großbritannien gibt es einen OpenStreetMap-Verein, die [Open Street Map Foundation](https://wiki.openstreetmap.org/wiki/Foundation), der ein geringes Maß an Spendengeldern einnimmt. In Deutschland gibt es den [FOSSGIS e.V.](https://www.fossgis.de/), über den Spenden abgewickelt werden können. [Zur Spenden-Seite…]( {{< relref "/spenden" >}})
 
 ## Gibt es auch Fan-Artikel?
 
